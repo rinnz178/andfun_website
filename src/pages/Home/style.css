@@ -72,5 +72,9 @@
       color: #C4C8CB;
       margin-bottom: 50px;
     }
+    .our_services_card{
+      background-color: #C4C8CB;
+      box-shadow: 0px 4px 10px rgba(255, 0, 0, 0.48)
+    }
   }
   

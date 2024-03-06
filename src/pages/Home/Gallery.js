@@ -16,7 +16,7 @@ const Gallery = () => {
         threshold: 0.6, // This specifies the percentage of the element's visibility needed to trigger the animation
     });
   return (
-    <Container className="col-md-11 col-sm-11 py-1">
+    <Container style={{marginTop:'40px'}} className="col-md-11 col-sm-11 py-1">
         <Center>
             <Text className="home_gallery_header">Company Celebration Gallery </Text>
         </Center>

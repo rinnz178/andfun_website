@@ -2,13 +2,14 @@ import React from 'react'
 import { Row, Col } from "react-bootstrap";
 import { Text } from '@chakra-ui/react';
 import { Center } from '@chakra-ui/react';
-import { Image } from 'antd';
 import ImageSample from '../../assets/images/image-sample.jpg';
 import { Grid, GridItem } from '@chakra-ui/react'
 import { motion } from "framer-motion";
 import  Container  from 'react-bootstrap/Container';
 import { Card, CardHeader, CardBody, CardFooter } from '@chakra-ui/react'
 import { Button } from '@chakra-ui/react';
+import SeeMore from '../../assets/icons/right-arrow.png';
+import Image  from 'react-bootstrap/Image';
 
 const JobList = () => {
   return (
@@ -58,7 +59,7 @@ const JobList = () => {
                                                 width:'90px',
                                                 backgroundColor:'transparent'
                                                 }}>
-                                        See More
+                                        <Image src={SeeMore} style={{width:'18px'}}/>
                                     </Button>
                                 </Col>
                             </Row>
@@ -101,7 +102,7 @@ const JobList = () => {
                                                 width:'90px',
                                                 backgroundColor:'transparent'
                                                 }}>
-                                        See More
+                                        <Image src={SeeMore} style={{width:'18px'}}/>
                                     </Button>
                                 </Col>
                             </Row>
@@ -144,7 +145,7 @@ const JobList = () => {
                                                 width:'90px',
                                                 backgroundColor:'transparent'
                                                 }}>
-                                        See More
+                                        <Image src={SeeMore} style={{width:'18px'}}/>
                                     </Button>
                                 </Col>
                             </Row>
@@ -187,7 +188,7 @@ const JobList = () => {
                                                 width:'90px',
                                                 backgroundColor:'transparent'
                                                 }}>
-                                        See More
+                                        <Image src={SeeMore} style={{width:'18px'}}/>
                                     </Button>
                                 </Col>
                             </Row>

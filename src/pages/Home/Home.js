@@ -13,6 +13,8 @@ import { CaretUpOutlined } from '@ant-design/icons';
 import Gallery from './Gallery';
 import JobList from './JobList';
 import Clock from './Clock';
+import OurServices from './OurServices';
+
 const Home = () => {
   const [isHovered, setIsHovered] = useState(false);
 
@@ -91,6 +93,7 @@ const Home = () => {
 
           </Col>
         </Row>
+        <OurServices/>
         <Gallery/>
         <JobList/>
              
