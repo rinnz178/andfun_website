@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/%7Brepo-name%7D/static/css/main.9a1102b1.css",
-    "main.js": "/%7Brepo-name%7D/static/js/main.378e237b.js",
-    "static/media/image-sample.jpg": "/%7Brepo-name%7D/static/media/image-sample.8bdea140987c8b3ba753.jpg",
-    "static/media/logo.png": "/%7Brepo-name%7D/static/media/logo.2215bbc7900aa26a2187.png",
-    "static/media/video-editing.png": "/%7Brepo-name%7D/static/media/video-editing.7e24858b8809c86253ba.png",
-    "static/media/browser.png": "/%7Brepo-name%7D/static/media/browser.3526bcfdf69cf2300049.png",
-    "static/media/photoshop.png": "/%7Brepo-name%7D/static/media/photoshop.cfac8a8c81c2b37b9ca3.png",
-    "index.html": "/%7Brepo-name%7D/index.html",
-    "main.9a1102b1.css.map": "/%7Brepo-name%7D/static/css/main.9a1102b1.css.map",
-    "main.378e237b.js.map": "/%7Brepo-name%7D/static/js/main.378e237b.js.map"
+    "main.css": "/andfun_website/static/css/main.9a1102b1.css",
+    "main.js": "/andfun_website/static/js/main.ebedf9a9.js",
+    "static/media/image-sample.jpg": "/andfun_website/static/media/image-sample.8bdea140987c8b3ba753.jpg",
+    "static/media/logo.png": "/andfun_website/static/media/logo.2215bbc7900aa26a2187.png",
+    "static/media/video-editing.png": "/andfun_website/static/media/video-editing.7e24858b8809c86253ba.png",
+    "static/media/browser.png": "/andfun_website/static/media/browser.3526bcfdf69cf2300049.png",
+    "static/media/photoshop.png": "/andfun_website/static/media/photoshop.cfac8a8c81c2b37b9ca3.png",
+    "index.html": "/andfun_website/index.html",
+    "main.9a1102b1.css.map": "/andfun_website/static/css/main.9a1102b1.css.map",
+    "main.ebedf9a9.js.map": "/andfun_website/static/js/main.ebedf9a9.js.map"
   },
   "entrypoints": [
     "static/css/main.9a1102b1.css",
-    "static/js/main.378e237b.js"
+    "static/js/main.ebedf9a9.js"
   ]
 }
